@@ -4,9 +4,9 @@
 ![Modern C++ template][github-sub-title:img]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoCaoAwA&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![抖音](https://img.shields.io/badge/video-抖音-purple)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-[![QQ](https://img.shields.io/badge/video-QQ-white)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![抖音](https://img.shields.io/badge/video-抖音-purple)]()
+[![QQ](https://img.shields.io/badge/video-QQ-white)]()
+[![youtube](https://img.shields.io/badge/video-BiliBili-blue)](https://space.bilibili.com/1536816222?spm_id_from=333.337.search-card.all.click)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
