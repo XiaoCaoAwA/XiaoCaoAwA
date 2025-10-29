@@ -2,6 +2,8 @@
 
 ![Modern C++ template][github-sub-title:img]
 
+![头像](image/无限进步.jpg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoCaoAwA&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![抖音](https://img.shields.io/badge/video-抖音-purple)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
@@ -17,7 +19,5 @@
 [![](https://img.shields.io/badge/JavaScript-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
 [![](https://img.shields.io/badge/PHP-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
 </div>
-
-![头像](image/无限进步.jpg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=XiaoCaoAwA.
