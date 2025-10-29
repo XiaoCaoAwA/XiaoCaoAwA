@@ -5,7 +5,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoCaoAwA&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![抖音](https://img.shields.io/badge/video-抖音-purple)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
-[![QQ](https://img.shields.io/badge/video-QQ-white)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+[![QQ](https://img.shields.io/badge/video-QQ交流群-white)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
