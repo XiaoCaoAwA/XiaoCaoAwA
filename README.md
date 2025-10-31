@@ -16,6 +16,9 @@
 [![](https://img.shields.io/badge/C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
 [![](https://img.shields.io/badge/JavaScript-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
 [![](https://img.shields.io/badge/PHP-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp)
+
+
+欢迎光临！欢迎来到本少爷的仓库！![表情](image/1.jpg)
 </div>
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=XiaoCaoAwA.
