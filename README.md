@@ -2,7 +2,6 @@
 
 ![头像](image/无限进步.jpg)
 ![Modern C++ template][github-sub-title:img]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoCaoAwA&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
 [![抖音](https://img.shields.io/badge/video-抖音-purple)]()
 [![QQ](https://img.shields.io/badge/video-QQ-white)]()
